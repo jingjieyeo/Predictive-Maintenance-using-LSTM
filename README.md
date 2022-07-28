@@ -3,8 +3,9 @@
 * Twitter: @UmbertoGriffo
 
 ## Colab
-You can try the code directly on [Colab](https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd).
-Save a copy in your drive and enjoy It!
+* New Python notebook that can run on Colab, uploaded in 2022 by Jingjie Yeo
+You can try the code directly on [Colab](https://colab.research.google.com/github/jingjieyeo/Predictive-Maintenance-using-LSTM/blob/master/Predictive_Maintenance_using_LSTM.ipynb).
+Save a copy in your drive and enjoy it!
 
 ## Software Environment
 * Python 3.6
