@@ -3,7 +3,7 @@
 * Twitter: @UmbertoGriffo
 
 ## Colab
-New Python notebook that can run on Colab, uploaded in 2022 by Jingjie Yeo.
+A Python notebook that can be run on Colab was uploaded in 2022 by Jingjie Yeo.
 The software environment listed below is obsolete for the notebook, the notebook runs using all the latest versions available on Colab.
 
 You can try the code directly on [Colab](https://colab.research.google.com/github/jingjieyeo/Predictive-Maintenance-using-LSTM/blob/master/Predictive_Maintenance_using_LSTM.ipynb).
