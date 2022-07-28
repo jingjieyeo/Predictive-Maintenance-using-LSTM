@@ -1,5 +1,5 @@
 # Recurrent Neural Networks for Predictive Maintenance
-* Author: Umberto Griffo
+* Author: Umberto Griffo, updated by Jingjie Yeo
 * Twitter: @UmbertoGriffo
 
 ## Colab
